@@ -1,0 +1,29 @@
+h1{
+    font-style:unset;
+    color: blue;
+}
+
+#enrojo{
+    color: red;
+}
+
+.subrayar{
+    text-decoration: underline;
+} /* estas son clases */
+
+.negrita{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+    text-decoration: none;
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}

@@ -1,0 +1,25 @@
+.titulo{
+    
+    color: rgb(51, 80, 87);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: 50;
+    font-size: 50px;
+}
+
+.divtitulo{
+    padding-top: 2%;
+    padding-bottom: 2px;
+    background-color: aquamarine;
+}
+
+.subtitulo{
+    padding-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+
+.backlink{
+    margin-top: 2%; /* el margin es la separacion entre un elemento a otro */
+    text-align: center;
+}
