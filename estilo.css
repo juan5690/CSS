@@ -7,6 +7,13 @@ h1{
     color: red;
 }
 
+#video{
+    border-style: dotted;
+}
+/* #linkSimple{
+    border-style: mixed;
+} */
+
 .subrayar{
     text-decoration: underline;
 } /* estas son clases */
